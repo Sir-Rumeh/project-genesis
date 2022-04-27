@@ -3,6 +3,10 @@
 	font-family: "Roboto Condensed", sans-serif;
 }
 
+html {
+	padding: none;
+}
+
 p {
 	font-style: normal;
 	font-size: 20px;
@@ -274,7 +278,7 @@ li:hover {
 	.navbarColor {
 	}
 	.cover-width {
-		min-width: 100%;
+		/* min-width: 100%; */
 	}
 	.contributor-section {
 		display: block;
