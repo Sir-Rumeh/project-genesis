@@ -93,13 +93,14 @@ li:hover {
 	background-color: rgba(235, 232, 226, 0.2);
 }
 
-.firstDiv {
+.first-div {
 	justify-content: center;
 	align-items: center;
 	align-content: center;
 	text-align: center;
 	margin-top: 20px;
-	transform: translate(26%, 0);
+	/* transform: translate(26%, 0); */
+	/* background-color: blue; */
 }
 
 .lightModeDarkModeBorderColor {
@@ -108,7 +109,7 @@ li:hover {
 
 .divStyling {
 	background-color: rgba(0, 0, 0, 0.5);
-	width: 610px;
+	width: 100%;
 	border-radius: 15px;
 }
 
