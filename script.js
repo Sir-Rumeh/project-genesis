@@ -72,5 +72,4 @@ function openPage() {
 	}
 }
 
-console.log("testing");
 // console.log("testing");
